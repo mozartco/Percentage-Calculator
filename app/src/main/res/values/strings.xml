@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Percentage Calculator</string>
+    <string name="action_settings">Developer</string>
+    <string name="percent">Percentage Calculator</string>
+    <string name="enterpercent">Enter Percent:</string>
+    <string name="entertextPercent">Enter Percent</string>
+    <string name="EnterNumber">Enter Number:</string>
+    <string name="Enter_Number">Enter Number</string>
+    <string name="Calculate">Calculate the result</string>
+    <string name="Result">Result</string>
+</resources>
